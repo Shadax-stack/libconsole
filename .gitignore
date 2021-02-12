@@ -10,3 +10,9 @@
 *.so
 *.exe
 *.pdb
+*.sln
+CMakeCache.txt
+CMakeFiles
+*.vcxproj
+*.sln
+*.vs
